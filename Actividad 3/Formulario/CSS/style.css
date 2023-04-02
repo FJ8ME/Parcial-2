@@ -1,0 +1,66 @@
+body{
+    background: linear-gradient(rgba(1, 0, 2, 0.993), rgba(0, 0, 0, 0.3)), url(/IMG/Akeno.jpg)center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(216, 34, 140);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container{
+    background: linear-gradient(rgb(12, 9, 6),rgb(51, 23, 97),rgb(0, 0, 0));
+    box-shadow: 0px 30px 60px -5px rgb(80, 20, 55);
+    height: 480px;
+    width: 450px;
+    padding: 70px;
+    border-radius: 60px;
+    transform: translate(05px,20px);
+}
+
+.form{
+    width: 500px;
+    display: flex;
+}
+
+.col-1{
+    width: 50%;
+    padding-left: 1px;
+}
+
+.col-2{
+    width: 50%;
+    padding-left: 80px;
+}
+
+.camp{
+    width: auto;
+    height: 60px;
+    color: rgb(255, 255, 255);
+}
+
+.boton{
+    background-color: rgb(170, 58, 155);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    width: 100px;
+    height: 20px;
+
+}
+
+.a{
+    background-color: rgb(170, 58, 155);
+    border-radius: 5px;
+}
+
+.b{
+    color: rgb(255, 255, 255);
+}
+
+::placeholder{
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+}
+
+
+
+

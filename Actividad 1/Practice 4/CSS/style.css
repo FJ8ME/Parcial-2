@@ -1,0 +1,35 @@
+*{
+    background-color: black;
+    font-family: sans-serif;
+}
+
+.cont{
+    font-size: 25px;
+    color: rgb(216, 24, 200);
+}
+
+h1{
+    text-align: center;
+    color: tomato;
+}
+
+h2{
+    color: aqua;
+}
+
+h1:hover{
+    color: yellowgreen;
+}
+
+h2:hover{
+    color: blue;
+}
+
+p{
+    font-size: inherit;
+}
+
+p:hover{
+    color: red;
+}
+

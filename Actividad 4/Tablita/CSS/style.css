@@ -1,0 +1,191 @@
+body{
+    background-image: url(/IMG/Rossweisse.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+
+marquee{
+    color: rgb(255, 0, 179);
+}
+
+#mexico:hover{
+    background-color: rgba(255, 0, 0, 0.274);
+}
+
+#mxdesc:hover{
+    background-color: rgba(153, 205, 50, 0.397);
+}
+
+#mxAct:hover{
+    background-color: rgba(255, 255, 0, 0.397);
+}
+
+#mxPre:hover{
+    background-color: rgba(64, 224, 208, 0.397);
+}
+
+#mxHig:hover{
+    background-color: rgba(134, 8, 8, 0.397);
+}
+
+#mxLow:hover{
+    background-color: rgb(134, 7, 134,0.397);
+}
+
+#mxDat:hover{
+    background-color: rgb(133, 54, 40,0.397);
+}
+
+#mxTot:hover{
+    background-color: rgba(116, 133, 40, 0.397);
+}
+
+#mxActN:hover{
+    background-color: rgba(80, 172, 71, 0.397);
+}
+
+#mxPreN:hover{
+    background-color: rgba(64, 224, 208, 0.397);
+}
+
+#mxHigN:hover{
+    background-color: rgba(228, 78, 78, 0.397);
+}
+
+#mxLowN:hover{
+    background-color: rgba(18, 65, 219, 0.397);
+}
+
+#mxDatN:hover{
+    background-color: rgba(17, 218, 34, 0.397);
+}
+
+#mxTotN:hover{
+    background-color: rgba(40, 133, 125, 0.397);
+}
+
+/*Venezuela*/
+
+#Venezuela:hover{
+    background-color: rgba(135, 0, 153, 0.274);
+}
+
+#venDesc:hover{
+    background-color: rgba(140, 197, 25, 0.397);
+}
+
+#venAct:hover{
+    background-color: rgba(185, 71, 71, 0.397);
+}
+
+#venPre:hover{
+    background-color: rgba(0, 0, 0, 0.397);
+}
+
+#venHig:hover{
+    background-color: rgba(8, 16, 134, 0.397);
+}
+
+#venLow:hover{
+    background-color: rgba(255, 69, 255, 0.397);
+}
+
+#venDat:hover{
+    background-color: rgba(167, 77, 77, 0.397);
+}
+
+#venTot:hover{
+    background-color: rgba(199, 233, 47, 0.397);
+}
+
+#venActN:hover{
+    background-color: rgba(80, 172, 71, 0.397);
+}
+
+#venPreN:hover{
+    background-color: rgba(60, 255, 0, 0.397);
+}
+
+#venHigN:hover{
+    background-color: rgba(0, 0, 0, 0.397);
+}
+
+#venLowN:hover{
+    background-color: rgba(216, 17, 17, 0.397);
+}
+
+#venDatN:hover{
+    background-color: rgba(17, 218, 34, 0.397);
+}
+
+#venTotN:hover{
+    background-color: rgba(2, 255, 234, 0.397);
+}
+
+/*Colombia*/
+
+#Colombia:hover{
+    background-color: rgba(174, 0, 255, 0.274);
+}
+
+#colDesc:hover{
+    background-color: rgba(153, 205, 50, 0.397);
+}
+
+#colAct:hover{
+    background-color: rgba(255, 255, 0, 0.397);
+}
+
+#colPre:hover{
+    background-color: rgba(0, 255, 42, 0.397);
+}
+
+#colHig:hover{
+    background-color: rgba(134, 125, 8, 0.397);
+}
+
+#colLow:hover{
+    background-color: rgb(134, 7, 134,0.397);
+}
+
+#colDat:hover{
+    background-color: rgba(5, 9, 250, 0.397);
+}
+
+#colTot:hover{
+    background-color: rgba(253, 187, 88, 0.397);
+}
+
+#colActN:hover{
+    background-color: rgba(172, 170, 71, 0.397);
+}
+
+#colPreN:hover{
+    background-color: rgba(64, 224, 64, 0.397);
+}
+
+#colHigN:hover{
+    background-color: rgba(18, 109, 74, 0.397);
+}
+
+#colLowN:hover{
+    background-color: rgba(219, 18, 186, 0.397);
+}
+
+#colDatN:hover{
+    background-color: rgba(218, 205, 17, 0.397);
+}
+
+#colTotN:hover{
+    background-color: rgba(161, 248, 241, 0.397);
+}
+
+
+.m:hover{
+    background-color: rgba(255, 255, 0, 0.301);
+}

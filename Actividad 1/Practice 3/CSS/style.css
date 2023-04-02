@@ -1,0 +1,30 @@
+*{
+    background-color: black;
+    color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+.cont img{
+    width: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.cont li{
+    padding-bottom: 7px;
+    text-align: left;
+}
+
+.cont a{
+    text-decoration: none;
+}
+
+.cont a:hover{
+    color: rgb(103, 184, 11);
+}
+
+.cont img:hover{
+    background-color: yellowgreen;
+}

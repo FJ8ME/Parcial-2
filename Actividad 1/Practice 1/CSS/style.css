@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color:rgb(101, 24, 202);
+    font-size: 25px;
+    letter-spacing: 1px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#h1:hover{
+    color: #0CA0D8;
+    background-color: rgba(248, 170, 0, 0.404);
+    cursor: pointer;
+    font-size: 55px;
+}
+
+#p1:hover{
+    color :crimson;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+#h2:hover{
+    color: aliceblue;
+    background-color: yellow;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+#p2:hover{
+    color: yellowgreen;
+    cursor: pointer;
+    font-size: 10px;
+}
+
+#h3:hover{
+    color: violet;
+    background-color: blueviolet;
+    cursor: pointer;
+    font-size: 40px;
+
+}
+
+#p3:hover{
+    color: tomato;
+    cursor: pointer;
+    font-size: 90px;
+
+}
+
+#h4:hover{
+    color: violet;
+    background-color: blueviolet;
+    cursor: pointer;
+    font-size: 40px;
+}
+
+#p4:hover{
+    color: rgb(71, 255, 169);
+    cursor: pointer;
+    font-size: 10px;
+
+}
+
+#h5:hover{
+    color: rgb(24, 78, 66);
+    background-color: rgb(3, 0, 5);
+    cursor: pointer;
+    font-size: 40px;
+}
+
+#p5:hover{
+    color: rgb(212, 175, 9);
+    cursor: pointer;
+    font-size: 70px;
+
+}
+
+#h6:hover{
+    color: rgb(207, 12, 12);
+    background-color: rgb(177, 163, 190);
+    cursor: pointer;
+    font-size: 40px;
+}
+
+#p6:hover{
+    color: rgb(141, 25, 4);
+    cursor: pointer;
+    font-size: 60px;
+
+}

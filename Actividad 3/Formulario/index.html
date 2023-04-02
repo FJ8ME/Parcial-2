@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href = "CSS/style.css">
+    <link rel = "icon" type = "icon/jpg" href = "IMG/favIcon.jpg">
+    <title>Formulario</title>
+</head>
+<body>
+    
+    <div class = "container">
+        <h1>Formulario</h1>
+        <div class = "form">
+
+            <div class = "col-1">
+                <div class = "camp">
+                    <label for = "name" class = "b">Nombre</label>
+                    <input type = "text" class = "a" name = "name" placeholder="Ingresa tu nombre">
+                </div>
+                <br>
+                <div class = "camp">
+                    <label for = "email" class = "b">Email</label>
+                    <input type = "Email" class = "a" name = "email" placeholder="Ingresa tu email">
+                </div>
+                <br>
+                <div class = "camp">
+                    <label for = "password" class = "b">Contraseña</label>
+                    <input type = "password" class = "a" name = "password" placeholder="Ingresa tu contraseña">
+                </div>
+                <br>
+
+                <div class = "camp">
+                    <label for="Gender">Gender: </label>
+              
+              <input type="radio" name="Gender" value="1">Male
+              <input type="radio" name="Gender" value="2" checked>Female <br>
+              <input type="radio" name="Gender" value="3">Prefer not to say
+                </div>
+                <div class="campos">
+                    <label for="sel" class = "b">Selecciona tu pais:</label>
+                    <br><br>
+                    <select class = "a" name="sel" id="sel">
+                        <option value = "1">Mexico</option>
+                        <option value = "2">EE.UU</option>
+                        <option value = "3">Canada</option>
+                        <option value = "4">Japon</option>
+                        <option value = "5">Noruega</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class = "col-2">
+                <div class = "camp">
+                    <label for = "userName" class = "b">Nombre de usuario</label>
+                    <input type = "text" class = "a" name = "userName" placeholder="Ingresa tu nombre de usuario">
+                </div>
+                <br>
+                <div class = "camp">
+                    <label for = "number" class = "b">Numero de telefono</label>
+                    <input type = "number" class = "a" name = "number" placeholder="Ingresa tu numero de telefono">
+                </div>
+                <br>
+                <div class = "camp">
+                    <label for = "confirmPassword" class = "b">Confirma tu contraseña</label>
+                    <input type = "password" class = "a" name = "confirmPassword" placeholder="Confirma tu contraseña">
+                </div>
+                
+                
+               <center> <input class="boton" type="button" value="Send"></center>
+
+            </div>
+
+            
+    
+        </div>
+
+        
+
+    </div>
+
+</body>
+</html>
